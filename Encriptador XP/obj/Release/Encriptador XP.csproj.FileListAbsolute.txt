@@ -1,0 +1,26 @@
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\bin\Release\Encriptador XP.exe
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\bin\Release\Encriptador XP.pdb
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\Encriptador_XP.frmEncriptador.resources
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\Encriptador_XP.Properties.Resources.resources
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.csproj.GenerateResource.Cache
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.exe
+C:\Documents and Settings\patlan\Escritorio\Encriptador XP\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.pdb
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.exe
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.pdb
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\bin\Release\Encriptador XP.exe
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\bin\Release\Encriptador XP.pdb
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\ResolveAssemblyReference.cache
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\Encriptador_XP.frmEncriptador.resources
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\Encriptador_XP.Properties.Resources.resources
+E:\Archivos de Programa [D]\Workspaces\Visual Studio Workspace\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.csproj.GenerateResource.Cache
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\Encriptador XP.exe
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\Encriptador XP.pdb
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\bin\Release\Encriptador XP.exe
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\bin\Release\Encriptador XP.pdb
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\Encriptador_XP.frmEncriptador.resources
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\Encriptador_XP.Properties.Resources.resources
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP [Codigo Fuente] - Win8\Encriptador XP\obj\Release\Encriptador XP.csproj.GenerateResource.Cache
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.exe
+C:\Users\Patlan\Desktop\Disco Encriptador\Encriptador XP\Encriptador XP\obj\Release\Encriptador XP.pdb
